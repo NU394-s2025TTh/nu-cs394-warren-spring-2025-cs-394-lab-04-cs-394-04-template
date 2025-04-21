@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "degit",
+    "firebaserc",
+    "lifecycles",
+    "loglevel",
+    "reactts",
+    "riesbeck",
+    "toddwseattle",
+    "unsubscription",
+    "uuidv"
+  ],
+  "editor.formatOnSave": true,
+  "prettier.configPath": "",
+  "jest.enableCodelens": false,
+  "jest.runMode": "on-demand"
+}
